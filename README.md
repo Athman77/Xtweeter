@@ -7,8 +7,9 @@
 </p>
 
 ## Preview 🎬
+https://github.com/user-attachments/assets/340d7ff1-6a97-409a-9589-99284f472eef
 
-https://user-images.githubusercontent.com/55032197/201472767-9db0177a-79b5-4913-8666-1744102b0ad7.mp4
+
 
 ## Features ✨
 
