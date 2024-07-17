@@ -1,11 +1,11 @@
 const config = {
-  apiKey: process.env.NEXT_PUBLIC_API_KEY,
-  authDomain: process.env.NEXT_PUBLIC_AUTH_DOMAIN,
-  projectId: process.env.NEXT_PUBLIC_PROJECT_ID,
-  storageBucket: process.env.NEXT_PUBLIC_STORAGE_BUCKET,
-  messagingSenderId: process.env.NEXT_PUBLIC_MESSAGING_SENDER_ID,
-  appId: process.env.NEXT_PUBLIC_APP_ID,
-  measurementId: process.env.NEXT_PUBLIC_MEASUREMENT_ID
+  apiKey: 'AIzaSyCe7eaoNM74HZyksNsxC7K8hGWbOdU40lI',
+  authDomain: 'finance-aea62.firebaseapp.com',
+  projectId: 'finance-aea62',
+  storageBucket: 'finance-aea62.appspot.com',
+  messagingSenderId: '10437449340',
+  appId: '1:10437449340:web:1d02bfc5eeadf9375edbf9',
+  measurementId: 'G-28Q34C1ZYY'
 } as const;
 
 type Config = typeof config;
