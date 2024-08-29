@@ -1,11 +1,12 @@
 const config = {
-  apiKey: 'AIzaSyCe7eaoNM74HZyksNsxC7K8hGWbOdU40lI',
-  authDomain: 'finance-aea62.firebaseapp.com',
-  projectId: 'finance-aea62',
-  storageBucket: 'finance-aea62.appspot.com',
-  messagingSenderId: '10437449340',
-  appId: '1:10437449340:web:1d02bfc5eeadf9375edbf9',
-  measurementId: 'G-28Q34C1ZYY'
+  apiKey: 'AIzaSyCN7G-RmrkeRsClTWXurPkcstTp5usNsqs',
+  authDomain: 'vidmo-65578.firebaseapp.com',
+  projectId: 'vidmo-65578',
+  storageBucket: 'vidmo-65578.appspot.com',
+  messagingSenderId: '679844539996',
+  appId: '1:679844539996:web:ddc71eeb8c6e38cf490099',
+  measurementId: 'G-DJDW7WPGKV'
+
 } as const;
 
 type Config = typeof config;
